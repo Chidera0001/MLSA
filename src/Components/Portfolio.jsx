@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Github-User Search",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The project showcases expertise in web development and API integration. Leveraging GitHub API, the webpage dynamically fetches and displays user profiles.",
+    url: "https://chidera0001.github.io/Github-User-Search/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Lyrics Search",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Lyrics Search website leverages on APIs to retrieve song lyrics based on user queries. Implemented with JavaScript for interactive functionality, HTML for structure, and CSS for styling, ensuring an intuitive user experience.",
+    url: "https://chidera0001.github.io/Lyrics-Search/",
   },
   {
-    title: "My Resume Site",
+    title: "Netflix Page clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Netflix Landing Page Clone project was a frontend endeavour aimed at replicating the official Netflix website using HTML, CSS, and JavaScript. Challenges included mimicking the layout and styling intricacies while ensuring responsiveness.",
+    url: "https://chidera0001.github.io/Netflix-page-clone/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "FOREX & JOKES",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project is a feature-rich web application developed with HTML, CSS, and JavaScript. It allows users to convert currency and provides entertainment with random Chuck Norris jokes. The application leverages external APIs for Chuck Norris jokes and currency exchange rates.",
+    url: "https://chidera0001.github.io/web-api/",
   },
 ];
 
